@@ -4,103 +4,103 @@
             {
                 "task_reference": "1",
                 "task_no": "000001",
-                "task_date": "22-06-2021 00:00:00",
+                "task_date": "2021-06-22T00:00:00",
                 "subject": "Do that!"
             },
             {
                 "task_reference": "3",
                 "task_no": "000003",
-                "task_date": "10-06-2021 00:00:00",
+                "task_date": "2021-06-10T00:00:00",
                 "subject": "Do what!"
             },
             {
                 "task_reference": "5",
                 "task_no": "000005",
-                "task_date": "10-06-2021 00:00:00",
+                "task_date": "2021-06-10T00:00:00",
                 "subject": "Install MS SQL Server"
             },
             {
                 "task_reference": "7",
                 "task_no": "000007",
-                "task_date": "10-06-2021 00:00:00",
+                "task_date": "2021-06-10T00:00:00",
                 "subject": "This is a long title for a task."
             },
             {
                 "task_reference": "8",
                 "task_no": "000008",
-                "task_date": "10-06-2021 00:00:00",
+                "task_date": "2021-06-10T00:00:00",
                 "subject": "This is a long title for a task."
             },
             {
                 "task_reference": "9",
                 "task_no": "000009",
-                "task_date": "10-06-2021 00:00:00",
+                "task_date": "2021-06-10T00:00:00",
                 "subject": "This is a long title for a task."
             },
             {
                 "task_reference": "10",
                 "task_no": "000006",
-                "task_date": "10-06-2021 00:00:00",
+                "task_date": "2021-06-10T00:00:00",
                 "subject": "This is a long title for a task."
             },
             {
                 "task_reference": "11",
                 "task_no": "000006",
-                "task_date": "10-06-2021 00:00:00",
+                "task_date": "2021-06-10T00:00:00",
                 "subject": "This is a long title for a task."
             },
             {
                 "task_reference": "12",
                 "task_no": "000006",
-                "task_date": "10-06-2021 00:00:00",
+                "task_date": "2021-06-10T00:00:00",
                 "subject": "This is a long title for a task."
             },
             {
                 "task_reference": "13",
                 "task_no": "000006",
-                "task_date": "10-06-2021 00:00:00",
+                "task_date": "2021-06-10T00:00:00",
                 "subject": "This is a long title for a task."
             },
             {
                 "task_reference": "14",
                 "task_no": "000006",
-                "task_date": "10-06-2021 00:00:00",
+                "task_date": "2021-06-10T00:00:00",
                 "subject": "This is a long title for a task."
             },
             {
                 "task_reference": "15",
                 "task_no": "000006",
-                "task_date": "10-06-2021 00:00:00",
+                "task_date": "2021-06-10T00:00:00",
                 "subject": "This is a long title for a task."
             },
             {
                 "task_reference": "16",
                 "task_no": "000006",
-                "task_date": "10-06-2021 00:00:00",
+                "task_date": "2021-06-10T00:00:00",
                 "subject": "This is a long title for a task."
             },
             {
                 "task_reference": "17",
                 "task_no": "000006",
-                "task_date": "10-06-2021 00:00:00",
+                "task_date": "2021-06-10T00:00:00",
                 "subject": "This is a long title for a task."
             },
             {
                 "task_reference": "18",
                 "task_no": "000006",
-                "task_date": "10-06-2021 00:00:00",
+                "task_date": "2021-06-10T00:00:00",
                 "subject": "This is a long title for a task."
             },
             {
                 "task_reference": "19",
                 "task_no": "000006",
-                "task_date": "10-06-2021 00:00:00",
+                "task_date": "2021-06-10T00:00:00",
                 "subject": "This is a long title for a task."
             },
             {
                 "task_reference": "20",
                 "task_no": "000006",
-                "task_date": "10-06-2021 00:00:00",
+                "task_date": "2021-06-10T00:00:00",
                 "subject": "This is a long title for a task."
             }
         ]
