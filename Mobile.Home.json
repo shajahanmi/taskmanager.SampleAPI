@@ -17,7 +17,7 @@
                 "task_reference": "5",
                 "task_no": "000005",
                 "task_date": "10-06-2021 00:00:00",
-                "subject": "Install Windows 2014 Server and MS SQL Server on the newly purchased server"
+                "subject": "Install MS SQL Server"
             }
         ],
         "TeamTasks": [
@@ -40,7 +40,17 @@
                 "subject": "This is a long title for a task."
             }
         ],
-        "ChartData": [
+        "UserData": [
+            {
+                "company_reference": "1",
+                "name": "Shah",
+                "mobile": "+918113070081",
+                "email": "shahoosh@gmail.com",
+                "image": "",
+                "company_name": "Trans Emirates"
+            }
+        ],
+        "SummaryData": [
             {
                 "status": "Completed",
                 "value": 100
