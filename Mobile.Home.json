@@ -1,0 +1,42 @@
+{
+    "Data": {
+        "IndividualTasks": [
+            {
+                "task_reference": "1",
+                "task_no": "000001",
+                "task_date": "22-06-2021 00:00:00",
+                "subject": "Do that!"
+            },
+            {
+                "task_reference": "3",
+                "task_no": "000003",
+                "task_date": "10-06-2021 00:00:00",
+                "subject": "Do what!"
+            }
+        ],
+        "TeamTasks": [
+            {
+                "task_reference": "1",
+                "task_no": "000001",
+                "task_date": "22-06-2021 00:00:00",
+                "subject": "Do that!"
+            },
+            {
+                "task_reference": "2",
+                "task_no": "000002",
+                "task_date": "20-06-2021 00:00:00",
+                "subject": "Do this!"
+            },
+            {
+                "task_reference": "3",
+                "task_no": "000003",
+                "task_date": "10-06-2021 00:00:00",
+                "subject": "Do what!"
+            }
+        ]
+    },
+    "Status": {
+        "Status": "OK",
+        "ErrorMessage": ""
+    }
+}
