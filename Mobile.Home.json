@@ -39,6 +39,20 @@
                 "task_date": "10-06-2021 00:00:00",
                 "subject": "This is a long title for a task."
             }
+        ],
+        "ChartData": [
+            {
+                "status": "Completed",
+                "value": 100
+            },
+            {
+                "status": "Ongoing",
+                "value": 30
+            },
+            {
+                "status": "Pending",
+                "value": 19
+            }
         ]
     },
     "Status": {
